@@ -4,6 +4,8 @@ description: This syllabus section provides the course description and informati
   on meeting times, prerequisites, training requirements, the textbook, additional
   resources, grading, and the schedule of course topics, exams, and assignment due
   dates.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -28,15 +30,15 @@ This course covers the fundamentals of rocket propulsion and discusses advanced 
 Training Requirements
 ---------------------
 
-For the laboratory project, students were required to go through the {{% resource_link "314e86e0-7900-434e-aac3-a2c91afffd4a" "MIT-EHS" %}} safety training before gaining access to the laboratory. In addition, specific training at the MIT {{% resource_link "d052fdf3-8ec5-4dcc-a7d2-60cfb7b16eb6" "Space Propulsion Laboratory (SPL)" %}} was required.
+For the laboratory project, students were required to go through the [MIT-EHS](https://ehs.mit.edu/site/) safety training before gaining access to the laboratory. In addition, specific training at the MIT [Space Propulsion Laboratory (SPL)](http://spl.mit.edu/) was required.
 
 Textbook and Additional Resources
 ---------------------------------
 
 *   Jahn, Robert G. _Physics of Electric Propulsion_. Dover Publications, 2006. ISBN: 9780486450407.
-*   {{% resource_link "5850745d-081c-48a0-856a-c285482f933c" "Journal of Propulsion and Power" %}}
-*   {{% resource_link "a0bce2d7-e842-45f5-9937-9658fa5d5e85" "Journal of Spacecraft and Rockets" %}}
-*   Other Journals in Applied Physics, including the {{% resource_link "ed05c7ae-ea29-400b-81d8-c572aea9226a" "Journal of Applied Physics" %}}, and Plasma Physics Journals such as the {{% resource_link "92a8eeca-e88d-47ed-96eb-cdc2285bdb9a" "Journal of Plasma Physics" %}} or {{% resource_link "6edcc6da-cbd0-4de5-950b-d5fb9c68578e" "Plasma Physics and Controlled Fusion" %}}
+*   [Journal of Propulsion and Power](http://arc.aiaa.org/loi/jpp)
+*   [Journal of Spacecraft and Rockets](http://arc.aiaa.org/loi/jsr)
+*   Other Journals in Applied Physics, including the [Journal of Applied Physics](http://scitation.aip.org/content/aip/journal/jap?gclid=CIj9kuSTuMYCFQmCaQodejcHcg), and Plasma Physics Journals such as the [Journal of Plasma Physics](http://journals.cambridge.org/action/displayJournal?jid=PLA) or [Plasma Physics and Controlled Fusion](http://iopscience.iop.org/0741-3335)
 
 Grading
 -------

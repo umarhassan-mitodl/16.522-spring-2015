@@ -5,6 +5,8 @@ description: This resource contains the information regarding lecture 24 notes i
 file: /courses/16-522-space-propulsion-spring-2015/b0731af925c3744ac462e159b8a2d86f_MIT16_522S15_Lecture24.pdf
 file_size: 1107281
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

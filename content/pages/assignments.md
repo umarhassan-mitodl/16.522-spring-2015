@@ -2,6 +2,8 @@
 content_type: page
 description: This section provides the 5 problem sets and the laboratory project assigned
   for the course.
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
