@@ -5,8 +5,6 @@ description: This resource contains the information regarding lecture 2 notes fu
 file: /courses/16-522-space-propulsion-spring-2015/d560a31b4f2a44ebac17fa3f32143602_MIT16_522S15_Lecture2.pdf
 file_size: 492140
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

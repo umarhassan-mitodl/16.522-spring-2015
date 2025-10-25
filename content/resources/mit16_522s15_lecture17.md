@@ -5,8 +5,6 @@ description: This resource contains the information regarding lecture 17 notes h
 file: /courses/16-522-space-propulsion-spring-2015/9e0fd7c942c5809fb226d67f56d3dfa5_MIT16_522S15_Lecture17.pdf
 file_size: 312205
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
